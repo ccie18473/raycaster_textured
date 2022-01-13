@@ -1,4 +1,4 @@
-# raycaster_flat v1
+# raycaster_textured v1
 
 ## Description
 
