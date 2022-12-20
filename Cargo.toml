@@ -10,4 +10,4 @@ good-web-game = "0.4.1"
 miniquad = "=0.3.0-alpha.37"
 glam = { version = "0.17.3", features = ["mint"]}
 cgmath = { version = "0.17", features = ["mint"] }
-image = "*"
+image = "0.24"
